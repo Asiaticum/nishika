@@ -1,0 +1,6 @@
+*.csv
+__pycache__/*
+*.log
+train/*
+.DS_Store
+.vscode/*
